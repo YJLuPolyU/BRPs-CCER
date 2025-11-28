@@ -1,0 +1,82 @@
+[
+  {
+    "unit_id": 1,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "gas",
+    "energy_consumption": 24.0,
+    "baseline": 40
+  },
+  {
+    "unit_id": 2,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "gas",
+    "energy_consumption": 21.0,
+    "baseline": 35
+  },
+  {
+    "unit_id": 3,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "gas",
+    "energy_consumption": 18.0,
+    "baseline": 30
+  },
+  {
+    "unit_id": 4,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "gas",
+    "energy_consumption": 15.0,
+    "baseline": 25
+  },
+  {
+    "unit_id": 5,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "gas",
+    "energy_consumption": 12.0,
+    "baseline": 20
+  },
+  {
+    "unit_id": 6,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "electricity",
+    "energy_consumption": 360.0,
+    "baseline": 600
+  },
+  {
+    "unit_id": 7,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "electricity",
+    "energy_consumption": 300.0,
+    "baseline": 500
+  },
+  {
+    "unit_id": 8,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "electricity",
+    "energy_consumption": 240.0,
+    "baseline": 400
+  },
+  {
+    "unit_id": 9,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "electricity",
+    "energy_consumption": 180.0,
+    "baseline": 300
+  },
+  {
+    "unit_id": 10,
+    "detection_time": "2025.11.15",
+    "time_period": "2025.10.15-2025.11.15",
+    "energy_type": "electricity",
+    "energy_consumption": 120.0,
+    "baseline": 200
+  }
+]
